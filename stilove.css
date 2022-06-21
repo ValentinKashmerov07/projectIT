@@ -56,3 +56,25 @@ h6 {
     margin-top: 3px;
     text-align: center;
 }
+
+#artistName{
+    
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: #606060;
+    margin-top: 3px;
+    text-align: center;
+    
+}
+
+h2{
+    
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: #606060;
+    margin-top: 3px;
+    text-align: center;
+    
+}
